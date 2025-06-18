@@ -41,7 +41,7 @@ Hem eğitim hem referans amaçlı, yüksek okunabilirlik odaklı.
 
 ## Bana Ulaş
 
-- [LinkedIn](www.linkedin.com/in/ediz-savaş-41a96b368)
+- [LinkedIn](https://www.linkedin.com/in/ediz-savaş-41a96b368)
 - GitHub: [@EdizSavas](https://github.com/EdizSavas)
 
 ---
